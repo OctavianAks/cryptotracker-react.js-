@@ -1,0 +1,74 @@
+.App {
+background-color: snow ;
+
+
+  }
+
+@media only screen and (min-width: 500px) 
+                and (max-width: 700px) {
+            body {
+                background-color: snow;
+              }
+        }
+
+
+
+
+
+
+
+crypto {
+  display: flexbox;
+  margin-left: 200px;
+  padding: 10px;
+
+
+}
+
+h2 {   
+margin-left: 210px;
+  color: grey;
+  width: 900px;
+  background-color: violet;
+  text-align: center;
+border-radius: 15px 50px 30px;
+}
+
+
+h3 {
+margin-left: 200px;
+background-color: cyan;
+text-align: center;
+border: 3px white;
+        border-radius:15px 50px;
+
+padding: 5px;
+height: auto;
+  width: 900px;
+}
+h3:hover {font-size: 1.7em;opacity:10;
+
+ }
+
+
+
+p {
+margin-left: 200px;
+background-color: lightcyan;
+text-align: center;
+color: mediumvioletred ;
+font-size: 25px;
+padding: 5px;
+height: auto;
+  width: 900px;
+box-shadow: 2px 1.3px lightblue;
+border-top-left-radius: 50px 20px;
+
+}
+
+h3:hover {opacity:100;
+ }
+
+
+
+
